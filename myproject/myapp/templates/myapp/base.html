@@ -1,0 +1,41 @@
+{% load static from staticfiles %}
+
+<!DOCTYPE html>
+
+<style>
+    .block {
+    border-radius: 5px;
+    min-height: 40px;
+    text-align: center;
+
+    }
+</style>
+
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ STATIC_URL }}bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <title>Шаблон Bootstrap 101</title>
+    <!-- Bootstrap -->
+    <link href="{{ STATIC_URL }}bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+  <div class="container-fluid">
+    <h1>Привет, мир!</h1>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="{{ STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
+
+  <div class="row">
+          <div class="span4 block" style="background-color: #f5f5f5">Level 1</div>
+          <div class="span8 block" style="background-color: blue">Level 2</div>
+         </div>
+  </div>
+
+  </div>
+
+  {% block content %}
+
+  {% endblock %}
+
+  </body>
+</html>
