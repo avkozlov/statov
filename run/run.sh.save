@@ -1,0 +1,17 @@
+#!/bin/sh
+
+
+AME=prjc
+	
+SRCDIR=prjc
+
+GUNICORN=/usr/bin/gunicorn_django
+HOMEDIR=/home/django
+
+VIRTUALENV=${HOMEDIR}/.virtualenvs/${NAME}
+PROJECTDIR=${HOMEDIR}/projects/${NAME}
+SOCKFILE=/tmp/${NAME}.sock
+MANAGE=${PROJECTDIR}/manage.py
+
+. ${VIRTUALENV}/bin/activate
+python ${MANAGE} run_gunicorn --bind unix:${SOCKFILE} 

@@ -1,0 +1,8 @@
+195.64.208.241 - - [19/Jul/2014:01:33:59 -0400] "GET / HTTP/1.1" 200 1553 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:33:59 -0400] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 200 22111 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:34:00 -0400] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 106015 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:34:00 -0400] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 28631 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:38:50 -0400] "GET / HTTP/1.1" 200 1553 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:38:50 -0400] "GET /static/bootstrap/css/bootstrap-responsive.css HTTP/1.1" 304 0 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:38:51 -0400] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"
+195.64.208.241 - - [19/Jul/2014:01:38:51 -0400] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0 "http://statov.ru/" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0"

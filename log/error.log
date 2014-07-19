@@ -1,0 +1,309 @@
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/bin/gunicorn_start.bash: line 5: bind: warning: line editing not enabled
+dirname: missing operand
+Try 'dirname --help' for more information.
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+dirname: missing operand
+Try 'dirname --help' for more information.
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/io/excel.py:626: UserWarning: Installed openpyxl is not supported at this time. Use >=1.6.1 and <2.0.0.
+  .format(openpyxl_compat.start_ver, openpyxl_compat.stop_ver))
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: cols is deprecated, use columns instead
+  warnings.warn(msg, FutureWarning)
+
+/home/anton/web/env/local/lib/python2.7/site-packages/pandas/util/decorators.py:53: FutureWarning: rows is deprecated, use index instead
+  warnings.warn(msg, FutureWarning)
+
